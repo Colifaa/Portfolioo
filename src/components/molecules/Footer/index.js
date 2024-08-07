@@ -8,7 +8,8 @@ const Footer = () => {
     <footer
       className="w-full text-center p-8 md:p-16 bg-accent"
       style={{
-        backgroundImage: `url('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIxMXcwaGg0ZGtqaXViNTFzcDU5YWR6Njlkcm4xZ3l6ZG82OWl6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V9rXt5FWL2EuRwyDOL/giphy.webp')`,
+        backgroundColor: "#561130",
+        backgroundImage: `url('/viejas locas.jpg')`,
         backgroundSize: 'cover', // Cambiado a 'cover'
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',

@@ -73,7 +73,7 @@ const Contact = () => {
         variants={headingAnimation}
       >
         <h3 className="text-neutral text-center">No dude en contactarme</h3>
-        <h1 className="text-4xl font-semibold drop-shadow-md text-center">
+        <h1 className="text-4xl font-semibold drop-shadow-md text-center text-black">
         Ponerse en  <span className="text-primary">Contacto</span>
         </h1>
         <BottomLine />
@@ -139,28 +139,28 @@ const Contact = () => {
           animate={viewDiv && "visible"}
           variants={contactAnimation}
         >
-          <h2 className="text-2xl font-medium">Informacion de contacto</h2>
+          <h2 className="text-2xl font-bold text-black">Informacion de contacto</h2>
           <div className="flex items-center my-6">
-            <FaUserAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaUserAlt>
-            <h3 className="font-medium text-primary">Mathez Jorge</h3>
+            <FaUserAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300 text-black"></FaUserAlt>
+            <h3 className="font-bold text-primary">Mathez Jorge</h3>
           </div>
           <div className="flex items-center my-6">
-            <FaPhoneAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaPhoneAlt>
-            <h3 className="font-medium text-primary">+54 9 2604224940</h3>
+            <FaPhoneAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300 text-black"></FaPhoneAlt>
+            <h3 className="font-bold text-primary">+54 9 2604224940</h3>
           </div>
           <div className="flex items-center my-6">
-            <MdEmail className="text-3xl mr-8 hover:text-primary cursor-pointer duration-300"></MdEmail>
-            <h3 className="font-medium text-primary">Jorgemathez14@gmail.com</h3>
+            <MdEmail className="text-3xl mr-8 hover:text-primary cursor-pointer duration-300 text-black"></MdEmail>
+            <h3 className="font-bold text-primary">Jorgemathez14@gmail.com</h3>
           </div>
           <div className="flex items-center my-6">
-            <FaLocationArrow className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaLocationArrow>
+            <FaLocationArrow className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300 text-black"></FaLocationArrow>
 
-            <h3 className="font-medium text-primary">
+            <h3 className="font-bold text-primary">
              San Rafael Mdza, Argentina
             </h3>
           </div>
           <div className="mt-8 flex items-center">
-            <h3 className="text-xl text-neutral">Social</h3>
+            <h3 className="text-xl text-neutral font-bold">Social</h3>
             <div className="bg-gray-400 w-10 h-[2px] mx-4"></div>
             <a
               href="https://www.linkedin.com/in/jorge-mathez-598597260/"

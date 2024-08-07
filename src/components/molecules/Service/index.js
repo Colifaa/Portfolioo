@@ -65,8 +65,8 @@ const Service = () => {
         animate={viewDiv && "visible"}
         variants={headingAnimation}
       >
-        <h3 className="text-center text-neutral">Lo que proporciono</h3>
-        <h1 className="text-4xl font-semibold text-center">
+    
+        <h1 className="text-4xl font-semibold text-center text-black">
           Mis <span className="text-primary">Servicios</span>
         </h1>
         <BottomLine />
@@ -80,22 +80,22 @@ const Service = () => {
         variants={sectionBodyAnimation}
       >
         {services?.map((service) => (
-          <div
-            key={service.id}
-            className={`${service.id % 1 === 0
-              ? "bg-accent shadow-lg"
-              : "bg-[#313131] shadow-md"
-              } rounded-lg p-6 hover:shadow-primary cursor-pointer duration-300`}
-          >
+     <div
+     key={service.id}
+     className={`bg-[#481f2f] 
+      shadow-md rounded-lg p-6 hover:shadow-primary 
+      cursor-pointer duration-300`
+    }
+   >
             <div className="mb-4 text-center">
               <span className="inline-block text-5xl text-primary">
                 {service.icon}
               </span>
             </div>
-            <h2 className="mb-4 text-2xl font-semibold text-center">
+            <h2 className="mb-4 text-2xl font-semibold text-center text-black">
               {service.title}
             </h2>
-            <p className="text-neutral">{service.description}</p>
+            <p className="text-neutral font-bold ">{service.description}</p>
           </div>
         ))}
       </motion.div>

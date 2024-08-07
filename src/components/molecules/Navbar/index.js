@@ -30,7 +30,7 @@ export default function Navbar() {
   const activeLink = ({ isActive }) => {
     return {
       fontWeight: 500,
-      color: isActive && "#FF651C",
+      color: isActive && "#BB8493",
     };
   };
 
@@ -58,7 +58,7 @@ export default function Navbar() {
 
   return (
     <div
-      className={`visible ${show && "nav-hidden"} shadow-lg bg-[#DBAFA0] 
+      className={`visible ${show && "nav-hidden"} shadow-lg bg-[#561130] 
      z-50`}
     >
       <div className="w-full flex items-center justify-between px-3 md:px-24 py-3">

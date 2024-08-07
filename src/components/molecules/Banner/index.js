@@ -25,8 +25,8 @@ const Banner = () => {
         animate={{ x: 0 }}
         transition={{ duration: 1 }}
       >
-        <h2 className="text-neutral text-xl font-medium translate-y-[-90%] sm:translate-y-[-0%]">Hola, Soy</h2>
-        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">Mathez Jorge Ali </h1>
+        <h2 className="text-neutral text-xl font-bold translate-y-[-90%] sm:translate-y-[-0%]">Hola, Soy</h2>
+        <h1 className="text-5xl font-bold mb-0 translate-y-[-50%] sm:translate-y-[-0%] text-black">Mathez Jorge Alí</h1>
         <div className="my-4">
           <TypeAnimation
             className="text-2xl text-primary font-bold translate-y-[-80%] sm:translate-y-[-0%]"
@@ -41,15 +41,18 @@ const Banner = () => {
             repeat={Infinity}
           />
         </div>
-        <p className="text-neutral max-w-xl mb-6 font-medium translate-y-[-20%] sm:translate-y-[-0%]">
+        <p className="text-neutral text-2xl max-w-xl mb-6 font-bold translate-y-[-20%] sm:translate-y-[-0%]">
         Como desarrollador web, estoy comprometido a crear sitios web de alta calidad.
-           aplicaciones que satisfagan las necesidades de mis clientes. con años de
-           experiencia en desarrollo web full-stack, me especializo en el uso
-           React.js, Next js, JavaScript, Solidity, MongoDB, Express.js y Node.js para
-           crear aplicaciones web escalables y robustas.
+           aplicaciones que satisfagan las necesidades de mis clientes. 
+       
       
         </p>
 
+        <p className="text-neutral text-2xl max-w-xl mb-6 font-bold translate-y-[-20%] sm:translate-y-[-0%]">
+        Con años de experiencia en desarrollo web full-stack, me especializo en el uso de
+           React.js, Next js, JavaScript, Solidity, MongoDB, Express.js y Node.js para
+           crear aplicaciones web escalables y robustas.
+           </p>
         <div className="flex items-center translate-y-[-60%] sm:translate-y-[-0%]">
           <a
             href="https://drive.google.com/file/d/15X25IURJL1UG6VcDj7gwlgPI7wGrQmmX/view?usp=drive_link"

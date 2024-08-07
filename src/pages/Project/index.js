@@ -51,12 +51,8 @@ const Project = () => {
           variants={headingAnimation}
         >
           <div className="mb-12">
-            
-            <h3 className="text-neutral text-center">
-              Some of my recent Projects
-            </h3>
-            <h1 className="text-4xl font-semibold text-center">
-              Featured <span className="text-primary">Projects</span>
+            <h1 className="text-4xl font-semibold text-center text-black">
+            Proyectos <span className="text-primary">Destacados</span>
             </h1>
             <BottomLine />
           </div>
@@ -70,7 +66,7 @@ const Project = () => {
         >
           <div className="mt-6 mb-2 flex items-center justify-center flex-wrap">
             <button
-              className={`btn btn-sm bg-primary border-2 border-primary text-white hover:bg-transparent hover:border-primary duration-300 mx-3 my-3 sm:my-0 ${activeBtn === "all" && "active-btn"
+              className={`btn btn-sm bg-primary border-2 border-primary text-#4c0e3c hover:bg-transparent hover:border-primary duration-300 mx-3 my-3 sm:my-0 ${activeBtn === "all" && "active-btn"
                 }`}
               onClick={() => {
                 setActiveBtn("all");
