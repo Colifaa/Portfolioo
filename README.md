@@ -63,7 +63,7 @@ This project was created using the following technologies.
 ![img-5]()
 
 ## Author
-- Portfolio: [MathezJorge](https:/)
+- Portfolio: [MathezJorge](https:/https://portfolioo-eta-three.vercel.app)
 - Github: [MathezJorge](https://github.com/Colifaa)
 - Linkedin: [MathezJorge](https://www.linkedin.com/in/jorge-mathez/)
 - Email: [JorgeMathez14@gmail.com](mailto:JorgeMathez14@gmail.com)
