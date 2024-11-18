@@ -1,31 +1,30 @@
-<h1 align ="center" >Gilbert Hutapea | Portfolio</h1>
+<h1 align="center">Jorge Mathez | Portafolio</h1>
 
-<h5  align ="center"> 
-Dedicated Front-end developer. Capable to solve working problems. Passionate about learning & development to reach the target. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. My next mission is how to become a Mern stack Developer. I would love to build some Giant Website which will shine myself. <br/> <a href="https://drive.google.com/file/d/16r18tc8RhGEiQoOGTTFvgZ0g46C_oQFe/view?usp=share_link">Resume 💼</a> </h5>
+<h5 align="center">
+Desarrollador Front-end dedicado, capaz de resolver problemas laborales. Apasionado por el aprendizaje y el desarrollo para alcanzar objetivos. Ansioso por enfrentar problemas más complejos y continuar buscando formas de maximizar la eficiencia del usuario. Mi próxima meta es convertirme en desarrollador Mern stack. Me encantaría construir un sitio web gigante que destaque mi trabajo. <br/> 
+<a href="https://drive.google.com/file/d/16r18tc8RhGEiQoOGTTFvgZ0g46C_oQFe/view?usp=share_link">Currículum 💼</a>
+</h5>
 <br/>
 
-  * [Configuration and Setup](#configuration-and-setup)
-  * [Key Features](#key-features)
-  * [Technologies used](#technologies-used)
-  * [📸 Screenshots](#screenshots)
-  * [Author](#author)
-  * [License](#license)
+* [Configuración e Instalación](#configuracion-e-instalacion)
+* [Características Clave](#caracteristicas-clave)
+* [Tecnologías Utilizadas](#tecnologias-utilizadas)
+* [📸 Capturas de Pantalla](#capturas-de-pantalla)
+* [Autor](#autor)
+* [Licencia](#licencia)
 
+## Configuración e Instalación
 
+Para ejecutar este proyecto de forma local, simplemente clona el repositorio o descárgalo como archivo zip y descomprímelo en tu máquina.
 
-## Configuration and Setup
+- Abre el proyecto en tu editor de código preferido.
 
-In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
+En la primera terminal:
 
-- Open the project in your prefered code editor.
-
-In the first terminal
-
-```
-$ cd berthutapea-portfolio
+```bash
+$ cd jorge-mathez-portafolio
 $ npm install 
 $ npm run start
-```
 
 ##  Key Features
 
@@ -69,26 +68,3 @@ This project was created using the following technologies.
 - Linkedin: [MathezJorge](https://www.linkedin.com/in/jorge-mathez/)
 - Email: [JorgeMathez14@gmail.com](mailto:JorgeMathez14@gmail.com)
 
-## License
-
-MIT License
-
-Copyright (c) 2022 Mathez Jorge
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
