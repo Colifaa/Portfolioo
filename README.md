@@ -2,7 +2,7 @@
 
 <h5 align="center">
 Desarrollador Front-end dedicado, capaz de resolver problemas laborales. Apasionado por el aprendizaje y el desarrollo para alcanzar objetivos. Ansioso por enfrentar problemas más complejos y continuar buscando formas de maximizar la eficiencia del usuario. Mi próxima meta es convertirme en desarrollador Mern stack. Me encantaría construir un sitio web gigante que destaque mi trabajo. <br/> 
-<a href="https://drive.google.com/file/d/16r18tc8RhGEiQoOGTTFvgZ0g46C_oQFe/view?usp=share_link">Currículum 💼</a>
+<a href="https://drive.google.com/file/d/14nD3dWAWKl_kKnzA0uu6DMOuhdJYTUMG/view?usp=drive_link">Currículum 💼</a>
 </h5>
 <br/>
 
